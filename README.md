@@ -1,14 +1,14 @@
 
-# 🛡️ Phishytics - Intelligent Phishing Website Detection with Machine Learning
+# 🛡️ Phishing Website Detection with Machine Learning
 
-Phishytics is a machine learning-powered tool to detect phishing websites using a combination of **Byte Pair Encoding (BPE)** and **TF-IDF** features. The model uses a **Random Forest Classifier** to deliver high accuracy in phishing detection. Pre-trained models are available for quick deployment.
+This is a machine learning-powered tool to detect phishing websites using a combination of **Byte Pair Encoding (BPE)** and **TF-IDF** features. The model uses a **Random Forest Classifier** to deliver high accuracy in phishing detection. Pre-trained models are available for quick deployment.
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 
 ---
 
 ## 🧠 Blog Reference
-Based on the blog post [Phishytics – Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/), this repository contains complete source code and pre-trained models.
+This repository contains complete source code and pre-trained models.
 
 ---
 
@@ -16,7 +16,7 @@ Based on the blog post [Phishytics – Machine Learning for Detecting Phishing W
 
 | Path | Description |
 | :--- | :---------- |
-| `phishytics-machine-learning-for-phishing` | Main folder |
+| `Detecting-Phishing-Websites-using-ML` | Main folder |
 | └── `tokenizer/` | Stores tokenizer output files |
 | └── `saved_models/` | Folder to store your trained models |
 | └── `pretrained_models/` | Contains pre-trained model files |
